@@ -1,2 +1,2 @@
 # Eduerika_project
-This is for training test
+This is for Tutorial purpose
